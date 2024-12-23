@@ -122,7 +122,7 @@ Now, the first time a guest attempts to access content or a team or site in your
 
 ## Set up guest access reviews
 
-With access reviews in Microsoft Entra ID, you can automate a periodic review of user access to various teams and groups. By requiring an access review for guests specifically, you can help ensure guests don't retain access to your organization's sensitive information for longer than is necessary.
+With access reviews in Microsoft Entra ID, you can automate a periodic review of user access to various teams and groups. By requiring an access review for guests specifically, you can help ensure guests don't retain access to your organization's sensitive information for longer than is necessary. Some feratures (such as inactive count) require Microsoft Entra ID Governance license.
 
 To set up a guest access review
 
